@@ -1,0 +1,6 @@
+@HafizAPI_HostAddress = http://localhost:5003
+
+GET {{HafizAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
