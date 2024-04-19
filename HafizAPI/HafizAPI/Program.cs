@@ -1,5 +1,5 @@
 
-namespace HafizAPI
+namespace HafizApi
 {
     public class Program
     {
