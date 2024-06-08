@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hafiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9d4cc2b48f80b4fe4b698eefcadb6dc86048858")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7afe90911585c4225594c61899e334f57081d03")]
 [assembly: System.Reflection.AssemblyProductAttribute("hafiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hafiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

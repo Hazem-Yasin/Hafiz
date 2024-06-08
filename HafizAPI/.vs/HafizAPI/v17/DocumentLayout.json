@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizApi\\",
+  "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\hafizapi\\hafizapi\\models\\surah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Surah.cs",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizApi\\HafizApi\\Models\\Surah.cs",
-              "RelativeDocumentMoniker": "HafizApi\\Models\\Surah.cs",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizApi\\HafizApi\\Models\\Surah.cs",
-              "RelativeToolTip": "HafizApi\\Models\\Surah.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Models\\Surah.cs",
+              "RelativeDocumentMoniker": "HafizAPI\\Models\\Surah.cs",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Models\\Surah.cs",
+              "RelativeToolTip": "HafizAPI\\Models\\Surah.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T09:42:31.922Z",
               "EditorCaption": ""
@@ -41,14 +41,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Ayah.cs",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizApi\\Models\\Ayah.cs",
-              "RelativeDocumentMoniker": "HafizApi\\Models\\Ayah.cs",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizApi\\Models\\Ayah.cs",
-              "RelativeToolTip": "HafizApi\\Models\\Ayah.cs",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Models\\Ayah.cs",
+              "RelativeDocumentMoniker": "HafizAPI\\Models\\Ayah.cs",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Models\\Ayah.cs",
+              "RelativeToolTip": "HafizAPI\\Models\\Ayah.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T09:35:11.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T09:35:11.2Z"
             }
           ]
         }
