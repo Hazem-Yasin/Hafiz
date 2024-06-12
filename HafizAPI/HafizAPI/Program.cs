@@ -1,4 +1,5 @@
 
+using HafizApi.Data;
 using HafizApi.Models;
 using Microsoft.EntityFrameworkCore;
 
@@ -10,14 +11,18 @@ namespace HafizApi
         {
             var builder = WebApplication.CreateBuilder(args);
 
+
             // Add services to the container.
             builder.Services.AddControllers();
-
-            builder.Services.AddDbContext<HafizContext>(options =>
+            builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddSwaggerGen();
+            builder.Services.AddDbContext<DataContext>(options =>
             {
-                //DEVICE\SQLEXPRESS
-                options.UseSqlServer("Server=DEVICE\\Database=HafizDB;Trusted_Connection=True;TrustCertificate=True;");
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
+
+
+
             //testing
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();

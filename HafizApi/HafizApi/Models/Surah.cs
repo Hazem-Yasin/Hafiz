@@ -6,7 +6,7 @@ namespace HafizApi.Models
     {
         //can consider surah number as ID
         //as the surah number will not be repated in the quran
-        public int SurahNumberID { get; set; }
+        public int SurahID { get; set; }
         public int NumberOfAyat { get; set; }
         [Required(ErrorMessage = "Surah Name is required")]
         public string SurahName { get; set; }
