@@ -11,13 +11,10 @@ namespace HafizApi.Models
         [Required(ErrorMessage = "Surah Name is required")]
         public string SurahName { get; set; }
 
-
         //every surah have multiple ayat
         public ICollection<Ayah> Ayahs { get; set; }
 
-
     }
 }
-
 
 //every Ayah have only one Surah
