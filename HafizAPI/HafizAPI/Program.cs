@@ -18,7 +18,7 @@ namespace HafizApi
                 //DEVICE\SQLEXPRESS
                 options.UseSqlServer("Server=DEVICE\\Database=HafizDB;Trusted_Connection=True;TrustCertificate=True;");
             });
-
+            //testing
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
