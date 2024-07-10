@@ -9,10 +9,8 @@ namespace HafizApi.Data
         {
 
         }
-
         public DbSet<Ayah> Ayat { get; set; }
         public DbSet<Surah> Surahs { get; set; }
-
     }
 }
 

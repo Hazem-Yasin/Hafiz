@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\hafizapi\\hafizapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|solutionrelative:hafizapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\hafizapi\\hafizapi\\models\\surah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|solutionrelative:hafizapi\\models\\surah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\hafizapi\\hafizapi\\migrations\\20240612120325_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|solutionrelative:hafizapi\\migrations\\20240612120325_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\hafizapi\\hafizapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|solutionrelative:hafizapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,15 +46,19 @@
       "DocumentGroups": [
         {
           "DockedHeight": 281,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "20240612162658_InitialCreate2.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Migrations\\20240612162658_InitialCreate2.cs",
               "RelativeDocumentMoniker": "HafizAPI\\Migrations\\20240612162658_InitialCreate2.cs",
@@ -66,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HafizContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Migrations\\HafizContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "HafizAPI\\Migrations\\HafizContextModelSnapshot.cs",
@@ -78,20 +82,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Surah.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Models\\Surah.cs",
               "RelativeDocumentMoniker": "HafizAPI\\Models\\Surah.cs",
               "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Models\\Surah.cs",
               "RelativeToolTip": "HafizAPI\\Models\\Surah.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAQAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T12:01:38.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T12:01:38.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "20240612120325_InitialCreate.Designer.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Migrations\\20240612120325_InitialCreate.Designer.cs",
               "RelativeDocumentMoniker": "HafizAPI\\Migrations\\20240612120325_InitialCreate.Designer.cs",
@@ -103,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\appsettings.json",
               "RelativeDocumentMoniker": "HafizAPI\\appsettings.json",
@@ -115,19 +118,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "HafizAPI\\Data\\DataContext.cs",
               "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Data\\DataContext.cs",
               "RelativeToolTip": "HafizAPI\\Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:46:43.836Z"
+              "WhenOpened": "2024-06-12T13:46:43.836Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20240612120325_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Migrations\\20240612120325_InitialCreate.cs",
               "RelativeDocumentMoniker": "HafizAPI\\Migrations\\20240612120325_InitialCreate.cs",
@@ -139,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Ayah.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Models\\Ayah.cs",
               "RelativeDocumentMoniker": "HafizAPI\\Models\\Ayah.cs",
@@ -151,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Program.cs",
               "RelativeDocumentMoniker": "HafizAPI\\Program.cs",
