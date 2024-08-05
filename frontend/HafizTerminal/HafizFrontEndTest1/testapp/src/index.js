@@ -6,7 +6,7 @@ import Comp from './Comp'
 
 //! _START getting the ayah surah page components
 import AyahComp from './Components/AyahComponent/AyahComp'
-import SurahComp from './Components/SurahComponent/SurahComp'
+import SurahComp from './SurahComp'
 import PageComp from './Components/PageComponent/PageComp'
 import reportWebVitals from './reportWebVitals';
 //! _END getting the ayah surah page components
@@ -14,8 +14,7 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-   {/* <App /> */}
-  <Comp />
+  <SurahComp />
   </React.StrictMode>
 );
 
