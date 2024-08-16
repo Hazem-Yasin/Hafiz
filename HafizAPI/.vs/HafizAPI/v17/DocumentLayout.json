@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 281,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -56,10 +56,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
@@ -70,7 +66,7 @@
               "RelativeDocumentMoniker": "HafizAPI\\Controllers\\SurahController.cs",
               "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Controllers\\SurahController.cs",
               "RelativeToolTip": "HafizAPI\\Controllers\\SurahController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T17:24:39.767Z",
               "EditorCaption": ""
@@ -86,6 +82,10 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T17:24:07.112Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
