@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 281,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -39,7 +39,8 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T18:03:51.204Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -52,11 +53,8 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T18:03:45.056Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -70,7 +68,7 @@
               "RelativeDocumentMoniker": "HafizAPI\\Controllers\\SurahController.cs",
               "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Controllers\\SurahController.cs",
               "RelativeToolTip": "HafizAPI\\Controllers\\SurahController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T17:24:39.767Z",
               "EditorCaption": ""
@@ -85,7 +83,8 @@
               "RelativeToolTip": "HafizAPI\\Controllers\\AyahController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T17:24:07.112Z"
+              "WhenOpened": "2024-08-12T17:24:07.112Z",
+              "EditorCaption": ""
             }
           ]
         }
