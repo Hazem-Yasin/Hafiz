@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\hafizapi\\hafizapi\\controllers\\surahcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|solutionrelative:hafizapi\\controllers\\surahcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\hafizapi\\hafizapi\\controllers\\ayahcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|solutionrelative:hafizapi\\controllers\\ayahcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\hafizapi\\hafizapi\\models\\surah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|solutionrelative:hafizapi\\models\\surah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\hafizapi\\hafizapi\\models\\ayah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|solutionrelative:hafizapi\\models\\ayah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\hafizapi\\hafizapi\\models\\surah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|solutionrelative:hafizapi\\models\\surah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\hafizapi\\hafizapi\\controllers\\surahcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|solutionrelative:hafizapi\\controllers\\surahcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\hafizapi\\hafizapi\\controllers\\ayahcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F31EE3D-40D3-4908-8715-51AC6FE5BC11}|HafizApi\\HafizApi.csproj|solutionrelative:hafizapi\\controllers\\ayahcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +26,38 @@
       "DocumentGroups": [
         {
           "DockedHeight": 281,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Ayah.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Models\\Ayah.cs",
               "RelativeDocumentMoniker": "HafizAPI\\Models\\Ayah.cs",
               "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Models\\Ayah.cs",
               "RelativeToolTip": "HafizAPI\\Models\\Ayah.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T18:03:51.204Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Surah.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Models\\Surah.cs",
               "RelativeDocumentMoniker": "HafizAPI\\Models\\Surah.cs",
               "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Models\\Surah.cs",
               "RelativeToolTip": "HafizAPI\\Models\\Surah.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T18:03:45.056Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SurahController.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Controllers\\SurahController.cs",
               "RelativeDocumentMoniker": "HafizAPI\\Controllers\\SurahController.cs",
@@ -68,12 +65,11 @@
               "RelativeToolTip": "HafizAPI\\Controllers\\SurahController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T17:24:39.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T17:24:39.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AyahController.cs",
               "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizAPI\\Controllers\\AyahController.cs",
               "RelativeDocumentMoniker": "HafizAPI\\Controllers\\AyahController.cs",
@@ -82,10 +78,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T17:24:07.112Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

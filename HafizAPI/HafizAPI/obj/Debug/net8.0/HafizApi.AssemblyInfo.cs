@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HafizApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a184bc3650eccad18868fbeaa86bb96c1fe977e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fa15124cf4878b0549387fd0c121db8b7a6dae2")]
 [assembly: System.Reflection.AssemblyProductAttribute("HafizApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HafizApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
