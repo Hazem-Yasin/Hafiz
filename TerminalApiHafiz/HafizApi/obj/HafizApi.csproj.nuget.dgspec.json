@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hazem/Documents/git/Hafiz/Hafiz/TerminalApiHafiz/HafizApi/HafizApi.csproj": {}
+    "/home/hazem/Documents/GitHub/Hafiz/TerminalApiHafiz/HafizApi/HafizApi.csproj": {}
   },
   "projects": {
-    "/home/hazem/Documents/git/Hafiz/Hafiz/TerminalApiHafiz/HafizApi/HafizApi.csproj": {
+    "/home/hazem/Documents/GitHub/Hafiz/TerminalApiHafiz/HafizApi/HafizApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hazem/Documents/git/Hafiz/Hafiz/TerminalApiHafiz/HafizApi/HafizApi.csproj",
+        "projectUniqueName": "/home/hazem/Documents/GitHub/Hafiz/TerminalApiHafiz/HafizApi/HafizApi.csproj",
         "projectName": "HafizApi",
-        "projectPath": "/home/hazem/Documents/git/Hafiz/Hafiz/TerminalApiHafiz/HafizApi/HafizApi.csproj",
+        "projectPath": "/home/hazem/Documents/GitHub/Hafiz/TerminalApiHafiz/HafizApi/HafizApi.csproj",
         "packagesPath": "/home/hazem/.nuget/packages/",
-        "outputPath": "/home/hazem/Documents/git/Hafiz/Hafiz/TerminalApiHafiz/HafizApi/obj/",
+        "outputPath": "/home/hazem/Documents/GitHub/Hafiz/TerminalApiHafiz/HafizApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hazem/.nuget/NuGet/NuGet.Config"
