@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZmJSDoZ0yYU=",
+  "dgSpecHash": "UIxcwnQnmQ4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizApi\\HafizApi.csproj",
+  "projectFilePath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitVS\\Hafiz\\HafizAPI\\HafizApi\\HafizApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hazem\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\hazem\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

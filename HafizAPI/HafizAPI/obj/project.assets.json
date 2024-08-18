@@ -5493,11 +5493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizApi\\HafizApi.csproj",
+      "projectUniqueName": "C:\\Users\\hazem\\OneDrive\\Documents\\GitVS\\Hafiz\\HafizAPI\\HafizApi\\HafizApi.csproj",
       "projectName": "HafizApi",
-      "projectPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizApi\\HafizApi.csproj",
+      "projectPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitVS\\Hafiz\\HafizAPI\\HafizApi\\HafizApi.csproj",
       "packagesPath": "C:\\Users\\hazem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\HafizAPI\\HafizApi\\obj\\",
+      "outputPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitVS\\Hafiz\\HafizAPI\\HafizApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
