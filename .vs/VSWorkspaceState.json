@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HafizAPI",
+    "\\HafizAPI\\HafizAPI",
+    "\\HafizAPI\\HafizAPI\\Models"
   ],
+  "SelectedNode": "\\HafizAPI\\HafizAPI\\Models\\Surah.cs",
   "PreviewInSolutionExplorer": false
 }

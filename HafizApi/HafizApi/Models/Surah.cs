@@ -9,6 +9,7 @@ namespace HafizApi.Models
         public int SurahID { get; set; }
         public int NumberOfAyat { get; set; }
         [Required(ErrorMessage = "Surah Name is required")]
+        //SurahName = title
         public string SurahName { get; set; }
 
         //every surah have multiple ayat
@@ -18,3 +19,11 @@ namespace HafizApi.Models
 }
 
 //every Ayah have only one Surah
+
+
+
+//seeding process:
+//SurahID = index
+//SurahName = title
+//NumberOfAyat = count
+

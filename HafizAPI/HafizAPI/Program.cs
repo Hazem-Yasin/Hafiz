@@ -1,4 +1,3 @@
-
 using HafizApi.Data;
 using HafizApi.Models;
 using Microsoft.EntityFrameworkCore;
@@ -7,26 +6,20 @@ namespace HafizApi
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
-
-            // Add services to the container.
+            // Add services to the container
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            // Configure DbContext with SQL Server
             builder.Services.AddDbContext<DataContext>(options =>
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
-
-
-
-            //testing
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
 
@@ -38,12 +31,18 @@ namespace HafizApi
             }
 
             app.UseHttpsRedirection();
-
             app.UseAuthorization();
-
-
             app.MapControllers();
 
+            // Seed data
+            using (var scope = app.Services.CreateScope())
+            {
+                var services = scope.ServiceProvider;
+                var context = services.GetRequiredService<DataContext>();
+                await Seed.SeedData(context); // Call the seed method
+            }
+
+            // Run the application
             app.Run();
         }
     }
