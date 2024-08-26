@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\frontend\\HafizReactFrontEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4B9BA7-A316-452C-8E61-8C2C9645CC36}|HafizReactFrontEnd\\hafizreactfrontend.esproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\frontend\\hafizreactfrontend\\hafizreactfrontend\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7A4B9BA7-A316-452C-8E61-8C2C9645CC36}|HafizReactFrontEnd\\hafizreactfrontend.esproj|solutionrelative:hafizreactfrontend\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 281,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\frontend\\HafizReactFrontEnd\\hafizreactfrontend\\src\\App.tsx",
+              "RelativeDocumentMoniker": "hafizreactfrontend\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\frontend\\HafizReactFrontEnd\\hafizreactfrontend\\src\\App.tsx",
+              "RelativeToolTip": "hafizreactfrontend\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-26T11:54:04.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
