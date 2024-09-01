@@ -1,0 +1,6 @@
+@QuranKareem_DB_HostAddress = http://localhost:5100
+
+GET {{QuranKareem_DB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
