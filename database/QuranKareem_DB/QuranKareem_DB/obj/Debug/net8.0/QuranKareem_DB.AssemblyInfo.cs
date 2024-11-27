@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuranKareem_DB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c899a3c14e638f0aeaaef70671116a11609dd9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d6d065ae24869f9f49c5982ac87258ce41afe29")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuranKareem_DB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuranKareem_DB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

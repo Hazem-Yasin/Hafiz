@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\",
+  "WorkspaceRootPath": "C:\\Users\\HazemYa-sin\\OneDrive - IBM\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1075EAA5-DD37-488B-A0AC-C119D15ED5D6}|QuranKareem_DB\\QuranKareem_DB.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\database\\qurankareem_db\\qurankareem_db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1075EAA5-DD37-488B-A0AC-C119D15ED5D6}|QuranKareem_DB\\QuranKareem_DB.csproj|c:\\users\\hazemya-sin\\onedrive - ibm\\documents\\github\\hafiz\\database\\qurankareem_db\\qurankareem_db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1075EAA5-DD37-488B-A0AC-C119D15ED5D6}|QuranKareem_DB\\QuranKareem_DB.csproj|solutionrelative:qurankareem_db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1075EAA5-DD37-488B-A0AC-C119D15ED5D6}|QuranKareem_DB\\QuranKareem_DB.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\database\\qurankareem_db\\qurankareem_db\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1075EAA5-DD37-488B-A0AC-C119D15ED5D6}|QuranKareem_DB\\QuranKareem_DB.csproj|c:\\users\\hazemya-sin\\onedrive - ibm\\documents\\github\\hafiz\\database\\qurankareem_db\\qurankareem_db\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1075EAA5-DD37-488B-A0AC-C119D15ED5D6}|QuranKareem_DB\\QuranKareem_DB.csproj|solutionrelative:qurankareem_db\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1075EAA5-DD37-488B-A0AC-C119D15ED5D6}|QuranKareem_DB\\QuranKareem_DB.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\database\\qurankareem_db\\qurankareem_db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1075EAA5-DD37-488B-A0AC-C119D15ED5D6}|QuranKareem_DB\\QuranKareem_DB.csproj|c:\\users\\hazemya-sin\\onedrive - ibm\\documents\\github\\hafiz\\database\\qurankareem_db\\qurankareem_db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1075EAA5-DD37-488B-A0AC-C119D15ED5D6}|QuranKareem_DB\\QuranKareem_DB.csproj|solutionrelative:qurankareem_db\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1075EAA5-DD37-488B-A0AC-C119D15ED5D6}|QuranKareem_DB\\QuranKareem_DB.csproj|c:\\users\\hazem\\onedrive\\documents\\github\\hafiz\\database\\qurankareem_db\\qurankareem_db\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1075EAA5-DD37-488B-A0AC-C119D15ED5D6}|QuranKareem_DB\\QuranKareem_DB.csproj|c:\\users\\hazemya-sin\\onedrive - ibm\\documents\\github\\hafiz\\database\\qurankareem_db\\qurankareem_db\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1075EAA5-DD37-488B-A0AC-C119D15ED5D6}|QuranKareem_DB\\QuranKareem_DB.csproj|solutionrelative:qurankareem_db\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,37 +32,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HazemYa-sin\\OneDrive - IBM\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\appsettings.json",
               "RelativeDocumentMoniker": "QuranKareem_DB\\appsettings.json",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\appsettings.json",
+              "ToolTip": "C:\\Users\\HazemYa-sin\\OneDrive - IBM\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\appsettings.json",
               "RelativeToolTip": "QuranKareem_DB\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-31T22:23:41.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T22:23:41.774Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\HazemYa-sin\\OneDrive - IBM\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "QuranKareem_DB\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\HazemYa-sin\\OneDrive - IBM\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\WeatherForecast.cs",
               "RelativeToolTip": "QuranKareem_DB\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T22:20:38.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-31T22:20:38.849Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HazemYa-sin\\OneDrive - IBM\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\Program.cs",
               "RelativeDocumentMoniker": "QuranKareem_DB\\Program.cs",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\Program.cs",
+              "ToolTip": "C:\\Users\\HazemYa-sin\\OneDrive - IBM\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\Program.cs",
               "RelativeToolTip": "QuranKareem_DB\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T22:20:34.319Z",
               "EditorCaption": ""
@@ -71,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HazemYa-sin\\OneDrive - IBM\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "QuranKareem_DB\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\hazem\\OneDrive\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HazemYa-sin\\OneDrive - IBM\\Documents\\GitHub\\Hafiz\\database\\QuranKareem_DB\\QuranKareem_DB\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "QuranKareem_DB\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
